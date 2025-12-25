@@ -4,3 +4,4 @@ export const YOUTUBE_SEARCH_API = "http://suggestqueries.google.com/complete/sea
 
 export const YOUTUBE_SEARCH_Results_API = "https://www.googleapis.com/youtube/v3/search&q="
 
+export const OFFSET_LIVE_CHAT = 25;
