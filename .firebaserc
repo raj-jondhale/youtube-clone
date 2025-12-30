@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "clone-22445"
-  }
+    "default": "clone-22445",
+    "yt": "clone-youtub-787fe"
+  },
+  "targets": {},
+  "etags": {}
 }
